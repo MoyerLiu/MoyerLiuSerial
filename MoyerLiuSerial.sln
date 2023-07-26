@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoyerLiuSerial", "MoyerLiuSerial.csproj", "{C83BEC29-F0A1-4E44-8726-41FCF9E274CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B851D1F7-F3D3-4200-8727-72AE0C987D2E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C83BEC29-F0A1-4E44-8726-41FCF9E274CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83BEC29-F0A1-4E44-8726-41FCF9E274CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83BEC29-F0A1-4E44-8726-41FCF9E274CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83BEC29-F0A1-4E44-8726-41FCF9E274CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90717D2C-0A69-42E6-AF6F-11581C420E94}
+	EndGlobalSection
+EndGlobal

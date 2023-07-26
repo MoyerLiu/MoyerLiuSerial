@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MoyerLiuSerial</id>
+    <version>1.0.0</version>
+    <authors>MoyerLiuSerial</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="FftSharp" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="LiveCharts" version="0.9.7" exclude="Build,Analyzers" />
+        <dependency id="LiveCharts.Wpf" version="0.9.7" exclude="Build,Analyzers" />
+        <dependency id="MathNet.Numerics" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="NAudio" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Ports" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\MengyuanLiu\Desktop\LMY\MengyuanLiu\MoyerLiuSerial\bin\Release\net6.0-windows\MoyerLiuSerial.runtimeconfig.json" target="lib\net6.0-windows7.0\MoyerLiuSerial.runtimeconfig.json" />
+    <file src="C:\Users\MengyuanLiu\Desktop\LMY\MengyuanLiu\MoyerLiuSerial\bin\Release\net6.0-windows\MoyerLiuSerial.dll" target="lib\net6.0-windows7.0\MoyerLiuSerial.dll" />
+  </files>
+</package>
